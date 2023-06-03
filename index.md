@@ -14,5 +14,7 @@ title: A Blog on Documents
 Homebrew is used in the installation of Ruby and Jekyll on a local computer.  This allows a user to launch a Jekyll server to quickly and easily view the edits to website content. Jekyll/Ruby are components of GitHub.  A user can edit and view contents and then use Git (or Git Desktop) to move the content to GitHub.  It is possible to do all edits in a repository on GitHub and not need to do the installation of Ruby/Jekyll on a local computer.
 
 ### Minima Theme
-From my research, this is the one theme that will allow adding of menu items within the header area of the page (e.g. the 'About' menu item).  There is an option to control which pages appear in this navigation and also the order of the terms.
+From my research, of the supported themes listed at <a href="https://pages.github.com/themes/" title="GitHub Pages supported themes">https://pages.github.com/themes/</a> this is the one theme that will allow adding of menu items within the header area of the page (e.g. the 'About' menu item).  There is an option to control which pages appear in this navigation and also the order of the terms.
+
+There are other themes available at <a href="https://jekyllthemes.io/free" title="Examples of free Jekyll themes">https://jekyllthemes.io/free</a>.  I have not yet tested these themes to see how easily they can be edited. 
 
